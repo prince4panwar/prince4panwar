@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince4panwar&label=Profile%20views&color=0e75b6&style=flat" alt="prince4panwar" /> </p>
@@ -23,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince4panwar&show_icons=true&locale=en" alt="prince4panwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince4panwar&" alt="prince4panwar" /></p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
