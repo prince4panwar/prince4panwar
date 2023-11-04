@@ -1,11 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
+
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince4panwar&label=Profile%20views&color=0e75b6&style=flat" alt="prince4panwar" /> </p>
+
+<p align="left"> <a href="https://twitter.com/https://twitter.com/princep08951882" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/princep08951882?logo=twitter&style=for-the-badge" alt="https://twitter.com/princep08951882" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince4panwar&show_icons=true&locale=en" alt="prince4panwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince4panwar&" alt="prince4panwar" /></p>
-<p>img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"</p>
-
-<p></p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"></p>
