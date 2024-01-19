@@ -49,9 +49,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prince4panwar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-<p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif"></p>
-<br>
-<p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"></p>
+
 
 
 <br><br>
