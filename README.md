@@ -3,6 +3,8 @@
 
 <h1 align="center">Hello and Welcome 👋, I'm Prince</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India.<br/>A student with a keen interest in programming and web development, I am embarking on an exciting journey to translate my passion for technology into a rewarding career. I'm on a journey to become a proficient developer who can craft innovative digital solutions.</h3>
+<br/>
+<h4>I'm actively seeking entry-level opportunities that will allow me to apply my knowledge, work alongside experienced professionals, and contribute to real-world projects. I'm not just looking for a job; I'm looking for a chance to make a meaningful impact, to create beautiful and functional websites, and to write clean, efficient code.</h4>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
