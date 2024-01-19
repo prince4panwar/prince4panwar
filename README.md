@@ -6,6 +6,10 @@
 
 <p>A student with a keen interest in programming and web development 💻, I am embarking on an exciting journey to translate my passion for technology into a rewarding career. I'm on a journey to become a proficient developer who can craft innovative digital solutions.</p>
 <h4>I'm actively seeking entry-level opportunities that will allow me to apply my knowledge, work alongside experienced professionals, and contribute to real-world projects 🌐. I'm not just looking for a job; I'm looking for a chance to make a meaningful impact, to create beautiful and functional websites, and to write clean, efficient code.</h4>
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -34,7 +38,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/princepanwar420/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/princepanwar420/" height="30" width="40" /></a>
 </p>
 <br/>
+<br><br>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # Languages and Tools:
 
@@ -45,7 +51,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince4panwar&" alt="prince4panwar" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince4panwar&show_icons=true&locale=en&layout=compact" alt="prince4panwar" /></p>
-<br>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prince4panwar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
