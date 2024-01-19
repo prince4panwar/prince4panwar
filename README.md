@@ -44,8 +44,6 @@
 
 # Languages and Tools:
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince4panwar&show_icons=true&locale=en" alt="prince4panwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince4panwar&" alt="prince4panwar" /></p>
