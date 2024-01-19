@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello and Welcome 👋, I'm Prince</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India.<br/>A student with a keen interest in programming and web development, I am embarking on an exciting journey to translate my passion for technology into a rewarding career. I'm on a journey to become a proficient developer who can craft innovative digital solutions.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
