@@ -49,14 +49,13 @@
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br/><br/><br/>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince4panwar&show_icons=true&locale=en" alt="prince4panwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince4panwar&" alt="prince4panwar" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince4panwar&show_icons=true&locale=en&layout=compact" alt="prince4panwar" /></p>
 
+<br/><br/><br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prince4panwar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
