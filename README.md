@@ -3,8 +3,9 @@
 
 <h1 align="center">Hello and Welcome 👋, I'm Prince</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India.</h3>
-<h4>A student with a keen interest in programming and web development, I am embarking on an exciting journey to translate my passion for technology into a rewarding career. I'm on a journey to become a proficient developer who can craft innovative digital solutions.</h4>
-<h4>I'm actively seeking entry-level opportunities that will allow me to apply my knowledge, work alongside experienced professionals, and contribute to real-world projects. I'm not just looking for a job; I'm looking for a chance to make a meaningful impact, to create beautiful and functional websites, and to write clean, efficient code.</h4>
+
+<p>A student with a keen interest in programming and web development 💻, I am embarking on an exciting journey to translate my passion for technology into a rewarding career. I'm on a journey to become a proficient developer who can craft innovative digital solutions.</p>
+<h4>I'm actively seeking entry-level opportunities that will allow me to apply my knowledge, work alongside experienced professionals, and contribute to real-world projects 🌐. I'm not just looking for a job; I'm looking for a chance to make a meaningful impact, to create beautiful and functional websites, and to write clean, efficient code.</h4>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -51,3 +52,15 @@
 <p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif"></p>
 <br>
 <p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"></p>
+
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![prince4panwar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=prince4panwar&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
