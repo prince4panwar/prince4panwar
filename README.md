@@ -53,7 +53,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince4panwar&" alt="prince4panwar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince4panwar&show_icons=true&include_all_commits=false&count_private=false&locale=en&langs_count=10" alt="prince4panwar" /></p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince4panwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide_border=false&order=2" height="200" alt="languages graph"  />
 
 <br/><br/><br/>
 
