@@ -32,13 +32,7 @@
 <a href="https://stackoverflow.com/users/6" target="_blank">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/prince-panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/prince-panwar" height="30" width="40" /></a>
-<a href="https://twitter.com/PrinceP08951882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/princep08951882" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/princepanwar420/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/princepanwar420/" height="30" width="40" /></a>
-</p>
-<br/>
-<br><br>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
